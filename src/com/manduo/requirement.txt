@@ -1,0 +1,4 @@
+java-json.jar
+jersey-bundle.jar
+jersey-client.jar
+jersey-core.jar
