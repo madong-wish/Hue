@@ -1,0 +1,11 @@
+Simple Java Program to Control Hue Lights
+
+- send API Put Request Asynchronously to turn on or off multiple lights
+
+Basic Commands: Turn on, Turn off, Set Color, Set Brightness
+
+Other Commands:
+ - Blink, Strobe: loop + Turn on + Turn off
+ - Color transformation: Set color multiple times
+ - Color loop: Loop color transformation
+ - Dim, Brighten, Fade In, Fade Out: Set brightness + Turn on + Turn off
